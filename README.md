@@ -14,8 +14,8 @@ Link para os problemas e seus respectivos vídeos explicativos.
 
 |Problema | Dificuldade |Vìdeo |
 | -- | -- |-- |
-| - |  Difícil|- |
-| -|  Difícil|- |
+| 2858. Minimum Edge Reversals So Every Node Is Reachable |  Difícil|- |
+| 2045. Second Minimum Time to Reach Destination|  Difícil|- |
 | - |  Difícil|[clique aqui]- |
 
 ## Screenshots
