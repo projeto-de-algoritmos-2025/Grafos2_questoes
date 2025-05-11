@@ -10,13 +10,13 @@
 | 19/0116072  |  Raphaela Guimarães de Araujo dos Santos |
 
 ## Sobre 
-Link para os problemas e seus respectivos vídeos explicativos.
 
 |Problema | Dificuldade |Vìdeo |
 | -- | -- |-- |
-| 2858. Minimum Edge Reversals So Every Node Is Reachable |  Difícil|- |
-| 2045. Second Minimum Time to Reach Destination|  Difícil|- |
+| [2045. Second Minimum Time to Reach Destination](hhttps://leetcode.com/problems/second-minimum-time-to-reach-destination/description/) |  Difícil|[clique aqui](-) |
+| [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) |  Difícil|[clique aqui](-) |
 | - |  Difícil|[clique aqui]- |
+
 
 ## Screenshots
 Screenshots do resultado das submissões das questões no leetcode.
@@ -24,13 +24,20 @@ Screenshots do resultado das submissões das questões no leetcode.
 Questão: 1
 
 
-Questão: 
+Questão: Second Minimum Time to Reach Destination
+<div align="center">
+    <img src="/2045. Second Minimum Time to Reach Destination/SecondMinimum .png" alt="Second Minimum Time to Reach Destination Screenshot" width="600">
+</div>
 
 
 Questão: 2
 
 
-Questão: 
+Questão:Swim in Rising Water
+<div align="center">
+    <img src="/778. Swim in Rising Water/Swim.png" alt="Swim in Rising Water Screenshot" width="600">
+</div>
+
 
 Questão: 3
 
