@@ -13,8 +13,8 @@
 
 |Problema | Dificuldade |Vìdeo |
 | -- | -- |-- |
-| [2045. Second Minimum Time to Reach Destination](hhttps://leetcode.com/problems/second-minimum-time-to-reach-destination/description/) |  Difícil|[clique aqui](-) |
-| [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) |  Difícil|[clique aqui](-) |
+| [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/) |  Difícil|[clique aqui](https://www.youtube.com/watch?v=uwiFUV0Xjh4) |
+| [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) |  Difícil|[clique aqui](https://www.youtube.com/watch?v=GEnR0KBxMws) |
 | - |  Difícil|[clique aqui]- |
 
 
